@@ -10,6 +10,7 @@ Graduate of engineering studies in Management and Production Engineering at the 
 *   ✉️  You can contact me at [mati.kuczykk@gmail.com](mailto:mati.kuczykk@gmail.com)
 *   🧠  I'm learning everything Python!
 *   🤝  I'm open to collaborating on any project that will allow me to increase my skills.
+*  Co-Owner of Planimbly 
   
   ### 🧰 Languages and Tools
 
