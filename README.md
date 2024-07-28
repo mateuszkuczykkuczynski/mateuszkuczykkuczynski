@@ -1,16 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateusz Kuczyński
 =========================================================================================================================================
 
-Fullstack Developer
+Software Engineer
 -----------------
 
-Graduate of engineering studies in Management and Production Engineering at the Poznań University of Economics (Bachelor of Engineering). During my studies, I started my adventure with programming by writing the simplest programs in Python language. After some time, simple programs became more and more complex which allowed me to become more familiar with and acquire skills in: FastAPI, Django, Git, SQL, noSQL, REST APIs, Docker, AWS and more. Now i am actively looking for a place with the opportunity to expand my knowledge to become a programmer.
+Graduate of engineering studies in Production Engineering at the Poznań University of Economics (Bachelor of Engineering). During my studies, I started my adventure with programming by writing the simplest programs in Python. Over time, these simple programs evolved into more complex projects, allowing me to work freely with Django, Git, SQL, noSQL, REST APIs and Docker. I am passionate about Python and the DevOps culture.
+
+Now, with several years of experience, I still look forward to leveraging my existing knowledge and experience while continuing to grow as a software engineer.
 
 *   🌍  I'm based in Poznań, Poland
 *   ✉️  You can contact me at [mati.kuczykk@gmail.com](mailto:mati.kuczykk@gmail.com)
 *   🧠  I'm learning everything Python!
 *   🤝  I'm open to collaborating on any project that will allow me to increase my skills.
-*  Co-Owner of Planimbly 
+*   🏢  Co-Owner of Timeaze 
   
   ### 🧰 Languages and Tools
 
